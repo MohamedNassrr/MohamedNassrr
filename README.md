@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Mohamed Nasr
+**Flutter Developer**
+Passionate about building clean and scalable mobile apps with Flutter
 
-<!--
-**MohamedNassrr/MohamedNassrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedNassrr&show_icons=true&theme=radical)
+---
+##  Contact
+- Email: mohamednasr.elwaziry@gmail.com
+- [LinkedIn](www.linkedin.com/in/mohamed-nasr-83365b332)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Samples from my projects
+ # Shopy
+ Shopy is a modern e-commerce MVP app built with Flutter. It features a fully functional shopping experience, including user authentication, product browsing, cart management, and secure payment integration with Stripe. Designed for scalability and a smooth user experience, Shopy showcases clean architecture, Firebase integration, and responsive UI best practices.
+---
