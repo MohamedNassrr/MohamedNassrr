@@ -23,7 +23,7 @@ Passionate about building clean and scalable mobile apps with Flutter
 [![Mocking](https://img.shields.io/badge/Mocking-6C63FF?style=for-the-badge)]()
 
  # Samples from my projects
- ## Shopy
+ ### Shopy
  **Shopy is a modern e-commerce MVP app built with Flutter. It features a fully functional shopping experience, including user authentication, product browsing, cart management, and secure payment integration with Stripe. Designed for scalability and a smooth user experience, Shopy showcases clean architecture, Firebase integration, and responsive UI best practices.**
  
  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedNassrr/shopy)
