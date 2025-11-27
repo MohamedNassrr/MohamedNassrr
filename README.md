@@ -6,7 +6,7 @@ Passionate about building clean and scalable mobile apps with Flutter
 ---
 ##  Contact with me:
 - Email: mohamednasr.elwaziry@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-nasr-83365b332)
+- [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mohamed-nasr-83365b332)
 
 
 ## Skills
