@@ -6,7 +6,7 @@ Passionate about building clean and scalable mobile apps with Flutter
 ---
 ##  Contact with me:
 - Email: mohamednasr.elwaziry@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-nasr-83365b332)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn)](https://www.linkedin.com/in/mohamed-nasr-83365b332)
 
 ## Skills
 
@@ -23,8 +23,8 @@ Passionate about building clean and scalable mobile apps with Flutter
 - Unit testing
 - mocking
 
- ## Samples from my projects
- ### Shopy
+ # Samples from my projects
+ ## Shopy
  **Shopy is a modern e-commerce MVP app built with Flutter. It features a fully functional shopping experience, including user authentication, product browsing, cart management, and secure payment integration with Stripe. Designed for scalability and a smooth user experience, Shopy showcases clean architecture, Firebase integration, and responsive UI best practices.**
  - [Repo Link](https://github.com/MohamedNassrr/shopy)
 ---
