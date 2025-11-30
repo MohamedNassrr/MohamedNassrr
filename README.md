@@ -2,7 +2,6 @@
 **Flutter Developer**
 Passionate about building clean and scalable mobile apps with Flutter
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedNassrr&show_icons=true&theme=radical&hide_border=true)
 ---
 ##  Contact with me:
 - Email: mohamednasr.elwaziry@gmail.com
