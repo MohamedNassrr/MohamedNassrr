@@ -20,7 +20,7 @@ Passionate about building clean and scalable mobile apps with Flutter
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Unit Testing](https://img.shields.io/badge/Unit_Testing-FF5722?style=for-the-badge)]()
 [![Mocking](https://img.shields.io/badge/Mocking-6C63FF?style=for-the-badge)]()
-![Local Storage](https://img.shields.io/badge/SharedPreferences-607D8B?style=for-the-badge&logo=google&logoColor=white)
+![Local Storage](https://img.shields.io/badge/SharedPreferences-607D8B?style=for-the-badge&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
  # Samples from my projects
