@@ -22,6 +22,7 @@ Passionate about building clean and scalable mobile apps with Flutter
 [![Mocking](https://img.shields.io/badge/Mocking-6C63FF?style=for-the-badge)]()
 ![Local Storage](https://img.shields.io/badge/SharedPreferences-607D8B?style=for-the-badge&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![GetIt](https://img.shields.io/badge/GetIt-1595F0?style=for-the-badge&logo=dependabot&logoColor=white)
 
  # Samples from my projects
  ### Shopy
