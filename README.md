@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Mohamed Nasr
 **Flutter Developer**
 Passionate about building clean and scalable mobile apps with Flutter
-![](https://komarev.com/ghpvc/?username=MohamedNassrr&color=blue)
 ---
 ##  Contact with me:
 - Email: mohamednasr.elwaziry@gmail.com
